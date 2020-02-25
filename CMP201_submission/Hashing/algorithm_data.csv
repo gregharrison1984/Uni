@@ -1,0 +1,5 @@
+
+Algorithm: Bruteforce (list) ,41669500 ,nanoseconds ,Book: ,dickens_scrooge.txt
+Algorithm: Boyer-Moore (list) ,133536045797200 ,nanoseconds ,Book: ,dickens_scrooge.txt
+Algorithm: Boyer-Moore (vector) ,133545586569300 ,nanoseconds ,Book: ,dickens_scrooge.txt
+Algorithm: Bruteforce (list) ,560583300 ,nanoseconds ,Book: ,wealth_nations.txt

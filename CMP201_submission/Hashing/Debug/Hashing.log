@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(87): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(87): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(95): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(97): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(137): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(137): warning C4244: '=': conversion from 'Position' to 'int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(145): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(147): warning C4244: 'argument': conversion from 'Position' to 'const unsigned int', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(256): warning C4244: 'initializing': conversion from 'std::streamoff' to '::size_t', possible loss of data
+c:\users\caitlin\source\repos\hashing\hashing\source.cpp(256): warning C4244: 'initializing': conversion from 'std::streamoff' to 'const ::size_t', possible loss of data
+  Hashing.vcxproj -> C:\Users\Caitlin\source\repos\Hashing\Debug\Hashing.exe
